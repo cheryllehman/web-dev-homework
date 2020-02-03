@@ -2,11 +2,11 @@
 
 ## Cheryl Lehman
 
-I am a paragraph
+I took this class to hopefully produce a webpage to help show and sell my art.
 
-- item 1
-- item 2
-- item 3
+-1 I have learned about readme. and response.txt.
+-2 I hope to learn to do all of this proficiently.
+-3 I hope to learn and remember all I have learned.
 
 1. item 1
 2. item 2
