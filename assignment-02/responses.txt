@@ -1,1 +1,4 @@
-hey
+Data travels on the router via routers.
+An IP address is an address assigned to any computer (including servers) to identify it on a given network. A DNS address is a Domain Name Service which is used to convert alphabetic references into a server's IP address generally for hosting services.
+Cookies are messages that web servers pass to your web browser when you visit Internet sites. Your browser stores each message in a small file, called cookie.
+Relative URL,Absolute URL, and the three basic parts of a URL are the protocol, the domain name and the path.
