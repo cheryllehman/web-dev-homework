@@ -1,1 +1,5 @@
 Cheryl Lehman
+The Internet is a global network of networks. The Web, is collection of information which is accessed via the Internet. Another way to look at this difference is; the Internet is infrastructure while the Web is service on top of that infrastructure.
+The Internet is made up of a network of routers. Each router's job is to move packets of information from their source to their destination. A packet will have moved through multiple routers during its journey.
+A directory is defined as an organizational unit,used to organize folders and files into an ordered hierarchical structure. 
+Benefits of of deveoloping software without using version control systems, VCS,can help prevents problems like not having backups. Version control can also enable developers to preserve efficiency and agility as the team developes the software.
