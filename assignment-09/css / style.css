@@ -1,23 +1,22 @@
-h1{
-  color; red;
+h1 {
+  color; #CD5C5C;
   opacity: 0.5;
 }
 /* Im getting confused */
   .square {
-    width:50%:
-    height:200pxl:
+    width: 50%;
+    height: 200pxl;
   }
 
-  #hollyhock{
+  #hollyhock {
     background-color: #FF377B;
-    opacity: inherit;
   }
 
   #shale {
     background-color: #7DE522;
   }
 
-  #yellow magnolia {
+  #yellow MAGNOLIA {
     background-color: #FBE608;
   }
 
