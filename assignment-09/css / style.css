@@ -1,8 +1,9 @@
-h1 {
-  color; #CD5C5C;
+h1{
+  background-color: #CD5C5C;
   opacity: 0.5;
 }
 /* Im getting confused */
+
   .square {
     width: 50%;
     height: 200pxl;
