@@ -1,10 +1,13 @@
 /* heading content */
+h1
 .text {background-color: #EOFFFF;
 color: rgb(224, 255, 255):
 padding: 5px
-line-height: 4em;}
+line-height: 4em;
+align-content: center;}
 
 /* Paragraph Content */
+p
 .text {
   background-color: #FFFFFF;
   color: rgb(147, 12, 76);
