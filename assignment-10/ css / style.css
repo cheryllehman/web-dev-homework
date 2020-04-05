@@ -7,16 +7,16 @@ line-height: 4em;
 align-content: center;}
 
 /* Paragraph Content */
-p
+body
 .text {
   background-color: #FFFFFF;
   color: rgb(147, 12, 76);
   padding: 5px;
-
+  font-family: sans-serif; Verdana;
   line-height: 23em;
 }
 p:first-of-type::first-letter {
-  font-family: 'fantasy';cursivee;
+  font-family: 'fantasy'; sans serif;
   font-size: 3em;
   font-weight: 600;
   color: rgb(0, 255, 255);
