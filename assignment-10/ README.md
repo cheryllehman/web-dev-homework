@@ -1,9 +1,12 @@
 The difference between system font, web font, and web-safe font is system
 fonts are the fonts already installed on your computer, while a web font is
 a specially tuned font for use on websites using the CSS font-face declaration.
-A web safe font is a font that is considered to be a 'safe bet' to be
-installed on the vast majority of computers. Every computer that has
-a browser installed has default fonts.
+Web fonts are custom fonts hosted on a server. They do not have to be
+available on the user's device to appear, but require certain elements to
+get called up correctly. Web-safe fonts are fonts that developers can count
+on being available by the system which include font families that both Windows
+and Mac should have.
+
 https://dev.to/aspose_slides/what-is-fallback-font-1b74
 https://practicaltypography.com/system-fonts.html
 
