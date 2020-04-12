@@ -1,41 +1,65 @@
-.my-box {
-  width: ;
-  height: ;
-  border: ;
-  padding: ;
-  margin: ;
-}
 body {
-   margin: 0.25em;
+  font-family: fantasy, sans-serif;
+  font-size: 1.25em;
 }
-header {
-    background-color: #d0d0d0;
-    font-family: sans-serif;
-    font-size: 12pt;
-    text-align: center;
-    text-transform: uppercase;
-    margin-bottom: 20px;
-    padding: 0.25em;
+.navigation {
+  background-color: rgba(255, 0, 0, 0.5);
+  width: 300px;
+  height: 100%;
+
+  position: fixed;
+  top 0;
+  left 0;
+}
+/*logo and title */
+.site-info {
+margin: 2em;
+text-align: center;
+font-size: 200%
 }
 
-.menu-item {
-    margin: auto;
-    padding: 0.25em;
-    min-width: 75px;
-    font-size: 10pt;
-    color: #fff;
-    background-color: goldenrod;
-    line-height: 2.1em;
+.logo{
+  background-color: #rgb(255, 0, 0, 0.5);
+  width: 300px;
+  height: 300px;
+  margin: 2em;
+  border: 6px solid #000;
+  text-transform: uppercase;
+  text-align: center;
+  text-decoration-color: #000;
+  text-shadow: gray;
+  font-family: fantasy,sans-serif;
+  font-size: 40px;
+}
+.logo:hover {
+  border-color: #999
+
 }
 
-.menu-item:hover {
-    background-color: gold;
-    color: #333;
+/* Site Links */
+.site-links {
+  margin: 0 1em;
+}
+.site-links a {
+  display: block;
+  margin: 1em;
+}
+.site-links a:hover {
+    margin-left: 2.5em;
+}
+/*Optional: links to social accounts */
+.social-links {
+  background-color: inherit;
+  width:inherit;
+  position:inherit;
+  bottom: 0;
+}
+.social-links img {
+background-color: #999;
+width: 25%;
+height: auto;
+
+float: left;
 }
 
-.display-inline {
-    display: inline;
-}
-.display-inline-block {
-    display: inline-block;
-}
+.main {}
