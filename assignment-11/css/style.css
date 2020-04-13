@@ -72,13 +72,13 @@ font-size: 200%;
 
 
 .main {
-   background-color: #00008B;
+   background-color: #7B68EE;
    overflow: auto;
    margin-left: 300px
    padding: 1em;
    position: absolute;
 }
-.banner{
+.banner {
   width: 100%;
   height: auto;
 }
