@@ -6,6 +6,10 @@ body {
   height: 100%;
   margin: 0 auto;}
 
+  .nav:hover {
+    float: right;
+    color: grey;}
+
   #content {overflow: auto;}
   #nav. #feature. #footer {
     margin: 1%;}
@@ -24,7 +28,7 @@ body {
       padding: 0.5em
     }
 
-#nav. #footer {
+#nav. #footer. {
   background-color: blue;
   padding: 0.5em 0;
   text-align: center;
