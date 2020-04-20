@@ -1,14 +1,15 @@
 /* Site wide elements: */
 body {
   font-family: 'fantasy', sans-serif;
-  background-color: red;
+  background-color: #8B0000;
   width: 90%;
   height: 100%;
   margin: 0 auto;}
 
   .nav:hover {
     float: right;
-    color: grey;}
+    color: ##D8BFD8;
+  }
 
   #content {overflow: auto;}
   #nav. #feature. #footer {
@@ -24,12 +25,12 @@ body {
     .Gallery3 {margin-right: 0%;
     }
     li{
-      display:inline;
-      padding: 0.5em
+      display: inline;
+      padding: 0.5em;
     }
 
 #nav. #footer. {
-  background-color: blue;
+  background-color: #000080;
   padding: 0.5em 0;
   text-align: center;
   font-size: .75em;
@@ -37,4 +38,4 @@ body {
 }
 #Feature.{height: 10em;
 margin-bottom: 1em;
-background-color: red;}
+background-color: #8B0000;}
